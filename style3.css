@@ -1,0 +1,29 @@
+.jercio{
+    text-align: center;
+    text-decoration: underline; 
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.rosa,
+.azul,
+.verde{
+
+ height: 50px;
+ width: 160px;
+ margin: 5px;
+ color: white;
+ text-align: center;
+ padding: 20px;
+}
+.rosa{
+    background-color: pink;
+}
+.azul{
+    background-color: blue;
+}
+.verde{
+    background-color: green;
+}

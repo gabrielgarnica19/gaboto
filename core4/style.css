@@ -1,0 +1,143 @@
+body {
+    width: 850px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color:black;
+    color: #fff;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 7vh;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 24px;
+    margin-left: 24px;
+}
+
+.nav-links {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-links li {
+    margin-right: 20px;
+
+}
+
+.nav-links li a {
+    text-decoration: none;
+    transition: color 0.3s ease;
+    color: white;
+}
+
+.nav-links li a:hover {
+    color: #f9f07a;
+}
+.btn2{
+    color:#e8e8e8;
+    text-align:center;
+    border-radius:20px;
+    background-color:deepskyblue;
+    border: none;
+    cursor: pointer;
+}
+.container{
+    width: 450px;
+    height:500px;
+    box-shadow: 2px 2px 2px gray;
+    margin-left: 10px;
+}
+.celeste{
+    background-color:darkslategrey;
+    width: 100%;
+    height: 8vh;
+}
+.image img{
+   height: 120px;
+   width: 120px;
+   border-radius: 100px;
+   border: 4px solid white;
+   margin-left: 20px;
+   margin-top: -50px;
+}
+.btn1{
+    color:black;
+    text-align:center;
+    height: 30px;
+    width: 100px;
+    background-color:#e8e8e8;
+    border: none;
+}
+.EDC{
+    display: flex;
+    flex-direction: column;
+    width: 51%;
+    height: 200px;
+    box-shadow: 2px 2px 2px  gray;
+    margin-left: 10px;
+    border: 1px solid gray;
+}
+/****/
+.parrafo22{
+    margin-left: 10px;
+    width: 350px;
+}
+.Education{
+    margin-left: 10px;
+    width: 50%;
+}
+/**EDUCATION**/
+/**solicitudes**/
+.SDC{
+    position: absolute;
+    left: 55%;
+    top: 80px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    width: 40%;
+    height: 250px;
+    box-shadow: 2px 2px 2px  gray;
+    margin-left: 20px;
+    border: 1px solid gray;
+}
+.cosascosas{
+    margin-left: 30px;
+}
+.imgimgm{
+    border: 1px solid aquamarine;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+}
+.btn2{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: purple;
+    border-top-color: white;
+    border: 1px solid purple;
+}
+/**solicitudes**/
+.TC{
+    position: absolute;
+    left: 55%;
+    top: 360px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 500px;
+    width: 40%;
+    box-shadow: 2px 2px 2px  gray;
+    margin-left: 20px;
+    border: 1px solid gray;
+}

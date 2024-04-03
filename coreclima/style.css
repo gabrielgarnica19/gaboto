@@ -1,0 +1,25 @@
+*{
+    margin-top: 0;
+    padding: 0;
+}
+body{
+    width: 100vw;
+    margin: 0;
+}
+.turulo{
+    background-color:cadetblue;
+    color: white;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-left: 35vw;
+    margin-right: 35vw;
+    padding: 0.5vw;
+}

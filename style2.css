@@ -1,0 +1,18 @@
+.first-t {
+     color: red;
+     background-color: blue;
+     text-align: center;
+     text-decoration: underline;
+}
+.second-t {
+    color: aquamarine; 
+    background-color:greenyellow ;
+    text-align: left;
+    text-decoration: line-through;
+}
+.third-t {
+    color: blueviolet;
+    background-color: chartreuse;
+    text-align: right;
+    text-decoration: overline;
+}

@@ -1,0 +1,28 @@
+.container{
+
+}
+.celeste{
+    background-color:darkslategrey;
+    width: 100vw;
+    height: 10vh;
+}
+.image img{
+   height: 210px;
+   width: 210px;
+   border-radius: 100px;
+   border: 4px solid white;
+   margin-left: 20px;
+   margin-top: -30px;
+}
+.btn1{
+    color:black;
+    text-align:center;
+    height: 30px;
+    width: 100px;
+    background-color:#e8e8e8;
+    border: none;
+}
+p{
+    width: 500px;
+}
+

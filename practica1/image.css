@@ -1,0 +1,45 @@
+img {
+    height: 19vh;
+    width: 19vw;
+}
+.box1{
+    background-color: gold;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    
+    height: 25vh;
+}
+.box2 {
+    background-color: dodgerblue;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+
+   
+    height: 25vh;
+}
+.box3 {
+    background-color: crimson;
+    justify-content: center;
+    display: flex;
+    justify-content: space-around;
+    height: 25vh;
+   
+}
+.box4 {
+    background-color: rgb(31, 226, 31);
+    margin: -20px;
+
+}
+.text {
+    text-align: center;
+}
+#container {
+    
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+.p {
+    text-align: center;
+}
